@@ -1,4 +1,4 @@
-# Vrinda_store_2022_report
+# Vrinda_store_report
 Created a comprehensive sales performance report for Vrinda using Excel to analyze monthly and category-wise sales data. The report provides a structured overview of:
 
 Total and monthly sales trends
